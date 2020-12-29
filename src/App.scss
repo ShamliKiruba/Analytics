@@ -1,0 +1,25 @@
+#root {
+	.signin {
+		border: 1px dotted black;
+		padding: 40px;
+		width: 25%;
+		div {
+			margin: 10px;
+			padding: 20px;
+			label {
+				margin: 10px;
+			}
+		}
+		button {
+			margin: 10%;
+    		padding: 10px 50px;
+		}
+	}
+	.home {
+		button {
+			padding: 20px;
+			margin: 20px;
+			width: 200px;
+		}
+	}
+}
